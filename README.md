@@ -68,6 +68,8 @@ python -m venv venv
 python3 -m venv venv
 source venv/bin/activate
 
+---
+
 **Install System Dependencies**
 Install the required upstream packages listed in your project profile:
 pip install speechrecognition groq gTTS playsound3 python-dotenv
