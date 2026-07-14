@@ -72,7 +72,9 @@ source venv/bin/activate
 
 **Install System Dependencies**
 Install the required upstream packages listed in your project profile:
+```
 pip install speechrecognition groq gTTS playsound3 python-dotenv
+```
 
 **Secure Environment Settings**
 The application relies on strict environment isolation to protect sensitive credentials.
