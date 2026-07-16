@@ -1,4 +1,4 @@
-# Faye Protocol v2.0 (Free Edition)
+# Faye Protocol v2.0
 
 Faye Protocol is a terminal-based, voice-activated personal companion application. Built using python, it bridges lightweight local speech processing with cloud-hosted LLM execution via the Groq API. 
 
