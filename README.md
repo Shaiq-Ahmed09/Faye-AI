@@ -19,7 +19,7 @@ The architecture is built entirely on open-source Python modules, chosen for min
 
 ---
 
-## 🚀 Key Features & Functionality
+## Key Features & Functionality
 
 ### 1. Hands-Free Conversational Loop
 *   Automatic ambient noise filtering using mathematical energy threshold calibration (`adjust_for_ambient_noise`).
