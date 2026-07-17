@@ -6,7 +6,7 @@ The application captures real-time verbal inputs, processes them into textual pr
 
 ---
 
-## 🛠️ Tech Stack & Ecosystem
+## Tech Stack & Ecosystem
 
 The architecture is built entirely on open-source Python modules, chosen for minimal execution overhead and low response latency:
 
