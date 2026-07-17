@@ -36,7 +36,7 @@ The architecture is built entirely on open-source Python modules, chosen for min
 
 ---
 
-## 🧠 Architectural Design: How Faye Works
+## Architectural Design: How Faye Works
 
 The system utilizes a structured pipelines approach across four primary operational phases:
 [User Speech] ──> (SpeechRecognition STT) ──> [Text Prompt]
