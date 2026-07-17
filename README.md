@@ -51,7 +51,7 @@ The system utilizes a structured pipelines approach across four primary operatio
 
 ---
 
-## ⚙️ Installation & Workspace Setup
+## Installation & Workspace Setup
 
 ### 1. Clone the Repository
 bash
